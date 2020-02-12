@@ -8,7 +8,7 @@ A short description of the project.
 
 ### Copyright
 
-Copyright (c) 2020, christian omieczynski
+Copyright (c) 2020, Christian Omieczynski
 
 
 #### Acknowledgements
